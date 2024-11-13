@@ -1,0 +1,5 @@
+def fungsiku (x) :
+    return (5*x)
+a = int(input("masukkan nilai a:"))
+hasil_fx = fungsiku(a)
+print(hasil_fx)
